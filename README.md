@@ -6,8 +6,8 @@ Diseñar formularios para realizar el registro (signup) y autenticación de usua
 
 ## Presentación
 
-    * https://upcedu-my.sharepoint.com/:b:/g/personal/gilberto-pedraza_unipiloto_edu_co/EWDDiwEym4BPqcA2ZFGwNf8BdcR46p6bqtu07plZFaB6ew?e=mqBNOm
-    * https://upcedu-my.sharepoint.com/:b:/g/personal/gilberto-pedraza_unipiloto_edu_co/Efi1DNpov1RGqWUITxVn4FQBuNk3RU5hHGQg081s3ViwDA?e=Uah9y3
+* https://upcedu-my.sharepoint.com/:b:/g/personal/gilberto-pedraza_unipiloto_edu_co/EWDDiwEym4BPqcA2ZFGwNf8BdcR46p6bqtu07plZFaB6ew?e=mqBNOm
+* https://upcedu-my.sharepoint.com/:b:/g/personal/gilberto-pedraza_unipiloto_edu_co/Efi1DNpov1RGqWUITxVn4FQBuNk3RU5hHGQg081s3ViwDA?e=Uah9y3
 
 ## Desarrollo
 
