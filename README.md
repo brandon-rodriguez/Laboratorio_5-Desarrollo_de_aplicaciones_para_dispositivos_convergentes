@@ -6,8 +6,8 @@ Diseñar formularios para realizar el registro (signup) y autenticación de usua
 
 ## Presentación
 
-    * https://upcedu-my.sharepoint.com/personal/gilberto-pedraza_unipiloto_edu_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgilberto%2Dpedraza%5Funipiloto%5Fedu%5Fco%2FDocuments%2FCursos%2FMoodle%2FDesarrollo%2Daplicaciones%2Dconvergentes%2F03%20Ambiente%20de%20desarrollo%20convergente%2F01%20Android%20Studio%2Fpresentaciones%2FConvergentes%2Dandroid%2Dcomponents%2DLogin%2Epdf&parent=%2Fpersonal%2Fgilberto%2Dpedraza%5Funipiloto%5Fedu%5Fco%2FDocuments%2FCursos%2FMoodle%2FDesarrollo%2Daplicaciones%2Dconvergentes%2F03%20Ambiente%20de%20desarrollo%20convergente%2F01%20Android%20Studio%2Fpresentaciones&originalPath=aHR0cHM6Ly91cGNlZHUtbXkuc2hhcmVwb2ludC5jb20vOmI6L2cvcGVyc29uYWwvZ2lsYmVydG8tcGVkcmF6YV91bmlwaWxvdG9fZWR1X2NvL0VXRERpd0V5bTRCUHFjQTJaRkd3TmY4QmRjUjQ2cDZicXR1MDdwbFpGYUI2ZXc_cnRpbWU9dHRIT180akEyRWc
-    * https://upcedu-my.sharepoint.com/personal/gilberto-pedraza_unipiloto_edu_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgilberto%2Dpedraza%5Funipiloto%5Fedu%5Fco%2FDocuments%2FCursos%2FMoodle%2FDesarrollo%2Daplicaciones%2Dconvergentes%2F03%20Ambiente%20de%20desarrollo%20convergente%2F01%20Android%20Studio%2Fpresentaciones%2FConvergentes%2Dlab%2DSignup%20Login%20Forms%2Epdf&parent=%2Fpersonal%2Fgilberto%2Dpedraza%5Funipiloto%5Fedu%5Fco%2FDocuments%2FCursos%2FMoodle%2FDesarrollo%2Daplicaciones%2Dconvergentes%2F03%20Ambiente%20de%20desarrollo%20convergente%2F01%20Android%20Studio%2Fpresentaciones&originalPath=aHR0cHM6Ly91cGNlZHUtbXkuc2hhcmVwb2ludC5jb20vOmI6L2cvcGVyc29uYWwvZ2lsYmVydG8tcGVkcmF6YV91bmlwaWxvdG9fZWR1X2NvL0VmaTFETnBvdjFSR3FXVUlUeFZuNEZRQnVOazNSVTVoSEdRZzA4MXMzVml3REE_cnRpbWU9RzE0Y0FJbkEyRWc
+    * https://upcedu-my.sharepoint.com/:b:/g/personal/gilberto-pedraza_unipiloto_edu_co/EWDDiwEym4BPqcA2ZFGwNf8BdcR46p6bqtu07plZFaB6ew?e=mqBNOm
+    * https://upcedu-my.sharepoint.com/:b:/g/personal/gilberto-pedraza_unipiloto_edu_co/Efi1DNpov1RGqWUITxVn4FQBuNk3RU5hHGQg081s3ViwDA?e=Uah9y3
 
 ## Desarrollo
 
